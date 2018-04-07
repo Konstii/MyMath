@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523122489 source:c:\users\amso\desktop\matma\mymath.cpp
+	<cmath>
+
+1523122915 source:c:\users\amso\desktop\matma\main.cpp
+	<iostream>
+	<cmath>
+	"mymath.h"
+
+1523122489 c:\users\amso\desktop\matma\mymath.h
+
